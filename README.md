@@ -58,16 +58,6 @@ A real estate consultancy in Dubai wants to analyze residential property transac
 
 ---
 
-## Dashboard Preview
-
-*(Screenshot placeholder — add a Power BI/Tableau dashboard screenshot here if built as a follow-up to this SQL project)*
-
-```
-[Insert dashboard screenshot here]
-```
-
----
-
 ## Skills Demonstrated
 
 - Data cleaning (NULL handling, duplicate checks, invalid value removal)
@@ -80,22 +70,8 @@ A real estate consultancy in Dubai wants to analyze residential property transac
 
 ---
 
-## How to Use This Project
-
-1. Clone or download this repository.
-2. Import the dataset CSV into PostgreSQL using the table structure provided in `create_table.sql`.
-3. Run the cleaning queries in `data_cleaning.sql`.
-4. Run the analysis queries in `business_questions.sql` to reproduce the results.
-5. Review `insights_summary.md` for the final business takeaways.
-
----
-
 ## About Me
 
 I am an M.Tech CSE student building a Data Analyst portfolio to apply for **Data Analyst, MIS, and Reporting roles in Dubai, UAE.** This project is part of my hands-on SQL practice, focused on solving real, industry-relevant business problems.
 
----
 
-## Suggested GitHub Topics/Tags
-
-`sql` `postgresql` `data-analysis` `real-estate` `dubai` `data-cleaning` `business-intelligence`
